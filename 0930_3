@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <title>웹개발 0930 _2</title>
+
+    <style>
+
+    .container {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    }
+    </style>
+
+  </head>
+  <body>
+
+    <div class="container">
+    <div>박스1</div>
+    <div>박스2</div>
+    <div>박스3</div>
+    </div>
+
+
+
+  </body>
+</html>
